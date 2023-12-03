@@ -1,4 +1,4 @@
-### Hello, World! 👋 I'm Esianyo
+# Hello, World! 👋 I'm Esianyo
 
 ## 🚀 Full Stack Developer
 I'm passionate about technology and innovation. My journey in the tech world is documented here on my GitHub, where you can see my growth and contributions to various projects.
@@ -17,11 +17,7 @@ I bring stories to life through compelling multimedia content.
 
 ## 📫 Let's Connect and Create Wonders Together!
 
-- [GitHub]
-- [LinkedIn]
-- [Facebook]
-- [Instagram]
-- [Twitter]
+- [GitHub](https://github.com/esianyo) - [LinkedIn](https://linkedin.com/in/esianyo) - [Facebook](https://facebook.com/esianyod) - [Instagram](https://instagram.com/esianyo__) - [Twitter](https://twitter.com/esianyo_)
 
 ## 🏷️ Tags
 
