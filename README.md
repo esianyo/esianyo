@@ -6,9 +6,9 @@ My journey in the tech world is documented here on my GitHub,
 where you can see my growth and contributions to various projects.
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://photos.google.com/photo/AF1QipPiflcNu81YDLXSh-ZAI7I4gRgygLVe7cSCW-Zf">
- <source media="(prefers-color-scheme: light)" srcset="https://photos.google.com/photo/AF1QipPQVrTH17xWATbOVfGx6YWyQfBxwEGyAdv1XARo">
- <img alt="A photo of Esianyo." src="https://photos.google.com/photo/AF1QipPQVrTH17xWATbOVfGx6YWyQfBxwEGyAdv1XARo">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/esianyo/design_portfolio/blob/master/self/profile_pic.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/esianyo/design_portfolio/blob/master/self/profile_pic.png">
+ <img alt="A photo of Esianyo." src="https://github.com/esianyo/design_portfolio/blob/master/self/profile_pic.png">
 </picture>
 
 ## 💼 Social Media Specialist
